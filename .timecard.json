@@ -1,35 +1,14 @@
 {
-  "reportFormat": "new",
-  "hourlyRate": 50,
   "card": [
     {
-      "date": "Fri Mar 25 2016",
+      "date": "Fri Apr 29 2016",
       "times": [
         {
-          "start": "17:27:50",
-          "by": "1egoman",
-          "end": "17:27:52"
-        }
-      ]
-    },
-    {
-      "date": "Thu Apr 28 2016",
-      "times": [
-        {
-          "start": "11:56:59",
-          "by": "1egoman",
-          "end": "11:57:01"
-        },
-        {
-          "start": "12:07:56",
-          "by": "1egoman",
-          "end": "12:07:58"
+          "start": "07:27:22",
+          "by": "a-username",
+          "end": "07:27:22"
         }
       ]
     }
-  ],
-  "name": "Matt's Bakery",
-  "tagline": "It's epic",
-  "primaryColor": "#d45500",
-  "secondaryColor": "#007fd4"
+  ]
 }
